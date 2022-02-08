@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6b72218025171455A6e1269bA8F3BD64dEa503B3",
+  "SCAN_LINK": "https://explorer.emerald.oasis.dev/token/0x6b72218025171455A6e1269bA8F3BD64dEa503B3",
+  "NETWORK": {
+    "NAME": "Oasis Emerald",
+    "SYMBOL": "Rose",
+    "ID": 42262
+  },
+  "NFT_NAME": "The Stripes NFT",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Tofunft",
+  "MARKETPLACE_LINK": "https://tofunft.com/nft/oasis/0x6b72218025171455A6e1269bA8F3BD64dEa503B3/1",
+  "SHOW_BACKGROUND": true
+}
